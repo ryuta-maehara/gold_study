@@ -1,0 +1,47 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "main.java.chapter01.q02.Test",
+      "projectName": "gold_study_cc9a2f"
+    },
+    {
+      "type": "java",
+      "name": "q01",
+      "request": "launch",
+      "mainClass": "main.java.chapter01.q01.q01",
+      "projectName": "gold_study_cc9a2f"
+    },
+    {
+      "type": "java",
+      "name": "q01",
+      "request": "launch",
+      "mainClass": "main.java.sample01.q01.q01",
+      "projectName": "gold_study_cc9a2f"
+    },
+    {
+      "type": "java",
+      "name": "sample01",
+      "request": "launch",
+      "mainClass": "main.java.sample01.q01.sample01",
+      "projectName": "gold_study_cc9a2f"
+    },
+    {
+      "type": "java",
+      "name": "sample01",
+      "request": "launch",
+      "mainClass": "main.java.sample01.sample01",
+      "projectName": "gold_study_cc9a2f"
+    },
+    {
+      "type": "java",
+      "name": "Debug Gold Study App",
+      "request": "launch",
+      "mainClass": "com.goldstudy.App",
+      "projectName": "gold_study"
+    }
+  ]
+}
