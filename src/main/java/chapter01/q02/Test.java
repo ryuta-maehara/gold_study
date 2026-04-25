@@ -4,6 +4,7 @@ public class Test {
 
     public static void main(String[] args) {
 
+        String test;
         // ジェネリクスを使用しない場合は、Object型で値を取得する必要がある。
         Value v1 = new Value("Hello");
         Object obj = v1.getVal();
