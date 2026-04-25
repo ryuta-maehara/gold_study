@@ -1,4 +1,4 @@
-package main.java.chapter01.q01;
+package chapter01.q01;
 
 public class q01 {
     public static void main(String[] args) {

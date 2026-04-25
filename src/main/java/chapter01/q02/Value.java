@@ -1,4 +1,4 @@
-package main.java.chapter01.q02;
+package chapter01.q02;
 
 // ジェネリクスを使用しない場合は、Object型で値を取得する必要がある。
 // ジェネリクスを使用することで、型安全に値を取得できる。

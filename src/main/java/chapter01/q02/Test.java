@@ -1,4 +1,4 @@
-package main.java.chapter01.q02;
+package chapter01.q02;
 
 public class Test {
 

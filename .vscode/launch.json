@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "q01",
+      "request": "launch",
+      "mainClass": "chapter01.q01.q01",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "chapter01.q02.Test",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
       "name": "Test",
       "request": "launch",
       "mainClass": "main.java.chapter01.q02.Test",
