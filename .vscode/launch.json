@@ -3,6 +3,188 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q50.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q48.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q47.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q46.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q44.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q42.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q41.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q40.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q38.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q36.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q35.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q34.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q31.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q30.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q28.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q26.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q23.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q22.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q21.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q13.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q12.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q11.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "q07.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "q05.Main",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "mock_exam.q03.Main",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q02.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
       "name": "q01",
       "request": "launch",
       "mainClass": "chapter01.q01.q01",

@@ -1,5 +1,6 @@
 plugins {
     id 'application'
+    id 'com.diffplug.spotless' version '7.0.3'
 }
 
 group = 'com.goldstudy'
@@ -7,6 +8,10 @@ version = '1.0.0'
 
 repositories {
     mavenCentral()
+}
+
+dependencies {
+    implementation 'com.h2database:h2:2.3.232'
 }
 
 java {
@@ -21,4 +26,10 @@ application {
 
 tasks.withType(JavaCompile).configureEach {
     options.encoding = 'UTF-8'
+}
+
+spotless {
+    java {
+        googleJavaFormat()
+    }
 }
