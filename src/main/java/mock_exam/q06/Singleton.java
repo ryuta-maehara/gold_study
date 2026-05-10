@@ -1,21 +1,20 @@
-package q06;
+package mock_exam.q06;
 
 public class Singleton {
-    private static volatile Singleton instance;
+  private static volatile Singleton instance;
 
-    private Singleton() {
-        // Private constructor to prevent instantiation
-    }
+  private Singleton() {
+    // Private constructor to prevent instantiation
+  }
 
-    public static Singleton getInstance() {
+  public static Singleton getInstance() {
+    if (instance == null) {
+      synchronized (Singleton.class) {
         if (instance == null) {
-            synchronized (Singleton.class) {
-                if (instance == null) {
-                    instance = new Singleton();
-                }
-            }
+          instance = new Singleton();
         }
-        return instance;
+      }
     }
-
+    return instance;
+  }
 }

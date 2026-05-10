@@ -5,6 +5,146 @@
       "type": "java",
       "name": "Sample",
       "request": "launch",
+      "mainClass": "mock_exam.q06.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter03.q026.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "CollectorSample",
+      "request": "launch",
+      "mainClass": "chapter03.q23.CollectorSample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "CollectorSample",
+      "request": "launch",
+      "mainClass": "chapter03.q022.CollectorSample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "CollectorSample",
+      "request": "launch",
+      "mainClass": "chapter03.q21.CollectorSample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Ex",
+      "request": "launch",
+      "mainClass": "chapter03.q019.Ex",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Ex",
+      "request": "launch",
+      "mainClass": "chapter03.q018.Ex",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Ex",
+      "request": "launch",
+      "mainClass": "chapter03.q017.Ex",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Ex",
+      "request": "launch",
+      "mainClass": "chapter03.q16.Ex",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Ex",
+      "request": "launch",
+      "mainClass": "chapter03.q05.Ex",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Ex",
+      "request": "launch",
+      "mainClass": "chapter03.q04.Ex",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Ex1",
+      "request": "launch",
+      "mainClass": "chapter03.q01.Ex1",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Ex",
+      "request": "launch",
+      "mainClass": "chapter03.q03.Ex",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Ex1",
+      "request": "launch",
+      "mainClass": "chapter03.Ex1",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter02.q17.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter02.q15.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter02.q05.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter02.q04.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter01.q06.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter01.q04.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
       "mainClass": "mock_exam.q50.Sample",
       "projectName": "gold_study"
     },
