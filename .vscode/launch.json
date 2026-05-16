@@ -5,6 +5,41 @@
       "type": "java",
       "name": "Sample",
       "request": "launch",
+      "mainClass": "chapter06.q012.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample2",
+      "request": "launch",
+      "mainClass": "chapter06.q011.Sample2",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter06.q011.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample2",
+      "request": "launch",
+      "mainClass": "chapter06.q010.Sample2",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter06.q010.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
       "mainClass": "chapter06.q09.Sample",
       "projectName": "gold_study"
     },
