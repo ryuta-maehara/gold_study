@@ -5,6 +5,83 @@
       "type": "java",
       "name": "Sample",
       "request": "launch",
+      "mainClass": "chapter06.q09.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter06.q08.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter06.q07.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter06.q05.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter06.q04.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter06.q01.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter06.q06.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter05.q11.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter05.q09.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter05.q08.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "chapter05.q03.Main",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
       "mainClass": "chapter04.q012.app.Sample",
       "projectName": "gold_study"
     },
