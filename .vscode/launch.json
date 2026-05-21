@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q056.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q054.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q18.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q014.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "mock_exam.q05.Main",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
       "name": "CallSample",
       "request": "launch",
       "mainClass": "chapter07.q014.CallSample",
