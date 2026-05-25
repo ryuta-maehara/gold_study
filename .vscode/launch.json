@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q33.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
       "name": "After",
       "request": "launch",
       "mainClass": "strategy.After",

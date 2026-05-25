@@ -6,8 +6,8 @@ import java.util.List;
 public class Sample {
 
   public static void main(String[] args) {
-    List<Integer> list = new ArrayList<Integer>(); // ジェネリクスを指定していないため、Object型のリストとなる
-    // List list = new ArrayList<Integer>(); // ジェネリクスを指定していないため、Object型のリストとなる
+    // List<Integer> list = new ArrayList<Integer>(); // ジェネリクスを指定していないため、Object型のリストとなる
+    List list = new ArrayList<Integer>(); // ジェネリクスを指定していないため、Object型のリストとなる
     list.add(Integer.valueOf(1));
     list.add(Integer.valueOf(2));
     list.add(Integer.valueOf(3));
