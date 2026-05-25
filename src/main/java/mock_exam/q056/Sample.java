@@ -9,10 +9,12 @@ public class Sample {
     // Stream<Integer> b = a.map(n -> n + 1); // Stream<Integer>にしていないため、コンパイルエラーになる。
     // b.forEach(n -> System.out.println(n));
 
-    Stream b =
-        Stream.of(
-            1, 2, 3); // 型を指定しないと、warningが発生する。Streamはジェネリクスを使用しているため、型を指定しないと、コンパイル時に型安全性が保証されない。
-    Stream<Integer> stream = b.map(n -> (Integer) n + 1); //  Integer型にキャストすることで、コンパイルエラーを解消するパターン.
+    Stream b = Stream.of(1, 2, 3); // ジェネリクスを使用していないため、Streamはどんな型でも扱えるraw typeになる。
+    Stream<Integer> stream = b.map(n -> (Integer) n + 1); //
+    // raw typeのmapで引数の関数型もraw typeのFunctionになる.
+    // raw typetとはつまり、nはObject型になる。
+    // そのため、キャストが必要になる。
+    // キャストしないとコンパイルエラーになる。
     stream.forEach(n -> System.out.println(n));
 
     Stream<Integer> c = Stream.of(1, 2, 3);
