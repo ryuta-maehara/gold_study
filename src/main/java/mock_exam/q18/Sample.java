@@ -20,6 +20,13 @@ public class Sample {
                 // Collectors.averagingInt(d -> d)
                 );
 
+    // double avg =
+    //     Stream.of(a, b) // Stream<List<Integer>>を生成する
+    //         .flatMap(List::stream) // Stream<List<Integer>>の要素を１つのストリームとして生成する
+    //         .mapToInt(d -> d) // Stream<Integer>の要素をintに変換する
+    //         .average()
+    //         .getAsDouble(); // Stream<Integer>の要素の平均値を求める
+
     System.out.println(avg);
   }
 }

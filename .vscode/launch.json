@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "After",
+      "request": "launch",
+      "mainClass": "strategy.After",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Before",
+      "request": "launch",
+      "mainClass": "strategy.Before",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
       "name": "Sample",
       "request": "launch",
       "mainClass": "mock_exam.q056.Sample",
