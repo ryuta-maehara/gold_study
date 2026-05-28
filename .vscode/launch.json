@@ -5,6 +5,13 @@
       "type": "java",
       "name": "Sample",
       "request": "launch",
+      "mainClass": "mock_exam.q059.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
       "mainClass": "mock_exam.q052.Sample",
       "projectName": "gold_study"
     },
