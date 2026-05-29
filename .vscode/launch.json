@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Ex",
+      "request": "launch",
+      "mainClass": "chapter03.q016.Ex",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter03.q015.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "chapter03.q06.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
       "name": "Sample",
       "request": "launch",
       "mainClass": "mock_exam.q059.Sample",
