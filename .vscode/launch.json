@@ -5,6 +5,20 @@
       "type": "java",
       "name": "Sample",
       "request": "launch",
+      "mainClass": "mock_exam.q010.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
+      "mainClass": "mock_exam.q043.Sample",
+      "projectName": "gold_study"
+    },
+    {
+      "type": "java",
+      "name": "Sample",
+      "request": "launch",
       "mainClass": "chapter05.q01.Sample",
       "projectName": "gold_study"
     },

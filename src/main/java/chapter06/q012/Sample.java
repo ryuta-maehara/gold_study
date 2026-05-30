@@ -22,7 +22,7 @@ public class Sample {
             "java",
             "chapter06",
             "q012",
-            "sample.txt"); // getメソッドはOSに依存しないパス区切り文字を自動で使用してPathオブジェクトを取得することもできる。
+            "sample.txt"); // getメiiiiソッドはOSに依存しないパス区切り文字を自動で使用してPathオブジェクトを取得することもできる。
     System.out.println(path2.toAbsolutePath());
 
     path = new File(pathStr).toPath(); // java.io.FileクラスのtoPath()メソッドを使用してPathオブジェクトを取得することもできる。
